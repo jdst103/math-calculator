@@ -1,6 +1,4 @@
 from math import pi
-# The task is to create a Functional calculator#
-# We need it to be able to add, subtract, divide amd multiply
 
 #Define an add function
 def add(num1, num2):
